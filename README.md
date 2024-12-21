@@ -20,6 +20,9 @@ This project demonstrates how software-defined radios (SDRs) can be effectively 
 <p>Livestream interface</p>
 <img src="GUIImages\liveaudio.png" alt="System Diagram" width="500">
 
+<h3>Analysis</h3>
+<img src="BER\berVsDistance.png" alt="System Diagram" width="500">
+
 ![GNU Radio](https://img.shields.io/badge/GNU%20Radio-blue)
 ![BladeRF](https://img.shields.io/badge/BladeRF-green)
 ![Python](https://img.shields.io/badge/Python-yellow)
