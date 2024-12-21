@@ -1,4 +1,4 @@
-# Communication-Design-Project
+# BladeeRF Tranciever
 This project is a **point-to-point communication system** implemented using **GNU Radio**, **BladeRF SDR**, and **Python** (for the GUI). It enables the transmission and reception of any type of file between two or more SDRs, with a maximum range of approximately **20 meters**. The system was implemented in WIFI frequency range (2.4 GHz).
 
 ### Key Features:
