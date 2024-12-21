@@ -1,5 +1,14 @@
 # Communication-Design-Project
-Point to point communication system using BladeRF SDRs and Gnuradio-Companion
+This project is a **point-to-point communication system** implemented using **GNU Radio**, **BladeRF SDR**, and **Python** (for the GUI). It enables the transmission and reception of any type of file between two or more SDRs, with a maximum range of approximately **20 meters**. The system was implemented in WIFI frequency range (2.4 GHz).
+
+### Key Features:
+- **File Transmission**: Capable of transmitting and receiving any file type (e.g., images, audio, video, text).
+- **Continuous Reception**: Supports continuous reception of multiple files without interruptions.
+- **Modulation Techniques**: Utilizes **QPSK** and **FM** modulation for efficient signal transmission.
+- **Error Correction**: Implements **convolutional coding** for robust error correction during transmission.
+
+This project demonstrates how software-defined radios (SDRs) can be effectively used in modern communication systems for reliable file transfer across moderate distances.
+
 
 <h3>GUI</h3>
 <p>File Transmitter interface</p>
